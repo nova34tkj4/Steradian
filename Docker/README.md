@@ -13,10 +13,12 @@ Lakukan deploy image postgresql(https://hub.docker.com/_/postgres) ke atas docke
 3. Deploy apache php
 Lakukan deploy image apache php (https://hub.docker.com/_/php) ke
 atas docker dengan expose port 8080
+<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/85407339-b547-4036-9ac3-3d42f2b799bf">
 
 4. Deploy nginx
 Lakukan deploy image nginx (https://hub.docker.com/_/nginx) ke atas
 docker dengan expose port 80
+<img width="959" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/18b149e8-38cf-436c-b3b3-a4171c8efb1d">
 
 5. deploy golang example
 (https://docs.docker.com/language/golang/build-images/)
