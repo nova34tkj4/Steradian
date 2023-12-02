@@ -23,6 +23,10 @@ docker dengan expose port 80
 5. deploy golang example
 (https://docs.docker.com/language/golang/build-images/)
 
+<img width="697" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/d899efa0-c70f-4925-a16a-886c1dc4e444">
+
+<img width="959" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/fa6a3193-3cce-4918-bf45-fe4c6d7faddc">
+
 6. menghubungkan apache php supaya bisa di akses lewat nginx
 hubungkan apche php yang sudah di install supaya bisa di akses melalui
 port 80 yang nginx
