@@ -30,3 +30,4 @@ docker dengan expose port 80
 6. menghubungkan apache php supaya bisa di akses lewat nginx
 hubungkan apche php yang sudah di install supaya bisa di akses melalui
 port 80 yang nginx
+
