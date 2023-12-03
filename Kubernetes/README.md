@@ -9,7 +9,11 @@
 
 
 3. deploy pods apache php
-6. deploy pods postgresql
+<img width="409" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/9bda5479-544e-490b-9dc4-67ea71f72dab">
+<img width="194" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/eb88a5b3-c7fd-46f8-a1e2-b2d661714d14">
+<img width="432" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/96115b36-2a7a-4a9b-bab6-ee281bf93869">
+
+4. deploy pods postgresql
 7. deploy deployment nginx
 8. deploy service nginx
 9. deploy ingress nginx(https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/)
