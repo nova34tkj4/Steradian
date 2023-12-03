@@ -20,3 +20,9 @@
 <img width="633" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/18191386-437f-4bf2-97fc-e17222c76825">
 
 7. deploy ingress nginx(https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/)
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v1.8.2/deploy/static/provider/aws/deploy.yaml
+<img width="958" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/b6e509fe-ca90-4f04-8f79-bd1922d53044">
+
+<img width="830" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/b94ab0e4-5bfe-44bc-9cf8-1c8ee000f05f">
+<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/c532f1e6-1cd7-40db-9721-b325d47a98ca">
+
