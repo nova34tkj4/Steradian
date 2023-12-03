@@ -2,16 +2,14 @@
 <img width="442" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/1daa9364-8441-4ab1-b926-37bf28a8c572">
 
 2. deploy pods nginx
-<img width="372" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/0f775de7-a15a-474f-841c-3ceefa8719c9">
+<img width="735" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/5fc30f97-7f35-48e2-b5fb-a27cba36f2e4">
+
 
 3. deploy pods apache php
-<img width="365" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/8c1b50f8-9dda-49b8-9527-25b70c564c9e">
-<img width="409" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/9bda5479-544e-490b-9dc4-67ea71f72dab">
-<img width="194" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/eb88a5b3-c7fd-46f8-a1e2-b2d661714d14">
-<img width="432" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/96115b36-2a7a-4a9b-bab6-ee281bf93869">
-
+<img width="810" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/31d5c975-da79-40e7-be19-3b47cbea8e60">
 
 4. deploy pods postgresql
+<img width="833" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/8143bdbc-ab11-46ca-826b-485a77898903">
 
 5. deploy deployment nginx
 <img width="374" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/f73c311e-cc48-4669-a1ad-6b935430dee9">
