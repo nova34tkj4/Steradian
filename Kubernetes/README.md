@@ -12,9 +12,7 @@
 <img width="833" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/8143bdbc-ab11-46ca-826b-485a77898903">
 
 5. deploy deployment nginx
-<img width="374" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/f73c311e-cc48-4669-a1ad-6b935430dee9">
-<img width="269" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/58b9fc18-e07c-4a48-bdf9-cd9735dee9f2">
-
+<img width="410" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/05b04010-7547-4726-8401-517c3c58614e">
 
 6. deploy service nginx
 <img width="573" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/b25ed415-d036-450b-9e81-ff7e65fe7b5a">
