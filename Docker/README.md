@@ -31,3 +31,6 @@ docker dengan expose port 80
 hubungkan apche php yang sudah di install supaya bisa di akses melalui
 port 80 yang nginx
 
+<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/2819f628-67b0-49e9-ab47-bf4b4b356ba8">
+<img width="463" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/f3e4eab5-fd93-4287-9273-a3a1120a6a2c">
+
