@@ -19,9 +19,16 @@ send data with log to elk
 
 <img width="659" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/98f9109c-b96b-4fd2-bfdd-c91e9cdbfd64">
 
-<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/859ff328-62a2-4c5c-bebd-00c224a409d2">
-
 <img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/92075b8b-4878-4072-ad3c-3ccf565e887a">
 
+<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/859ff328-62a2-4c5c-bebd-00c224a409d2">
+
+
 submit data with query
+
+<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/c29d44a3-9cde-4757-a972-0584a00ce3d7">
+
+<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/d3f569f6-9daf-42ff-9f2f-fb8f581833c3">
+
+<img width="960" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/66e0c750-f0a8-434c-a5fe-7c166ce17bc0">
 
