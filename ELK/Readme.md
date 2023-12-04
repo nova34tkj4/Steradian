@@ -12,7 +12,9 @@
 <img width="959" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/3bd0a573-9fc2-4351-bb73-2742d3f3bdb8">
 
 3. submit data to elk
+   
 send data with log to elk
+
 <img width="606" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/7d6d7644-d8cc-417c-84c5-79390d8369d5">
 
 <img width="656" alt="image" src="https://github.com/nova34tkj4/Steradian/assets/26535997/dbd26fc7-0ada-4696-9762-88508f75f457">
